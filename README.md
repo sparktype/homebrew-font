@@ -1,1 +1,3 @@
-# homebrew-font
+# SparkWares Homebrew Font Repo
+
+ * JetBrainsMono Nerd Font

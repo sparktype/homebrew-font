@@ -11,6 +11,6 @@ cask 'sparkwares-cascadia-nerd-font' do
   font 'Caskaydia Cove SemiBold Nerd Font Complete.ttf'
   font 'Caskaydia Cove ExtraLight Nerd Font Complete.ttf'
   font 'Caskaydia Cove SemiLight Nerd Font Complete.ttf'
-  font 'Caskaydia Cove Light Nerd Font Complete.ttf '
+  font 'Caskaydia Cove Light Nerd Font Complete.ttf'
   font 'Caskaydia Cove Regular Nerd Font Complete.ttf'
 end
